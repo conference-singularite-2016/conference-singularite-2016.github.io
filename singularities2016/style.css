@@ -679,7 +679,7 @@ nav ul.sub-menu > li:last-child > a {
     left: 0;
     bottom: 1.111em;
     padding: 0;
-    max-width: 50%;
+    max-width: 100%;
 }
 
 .photocaption {
