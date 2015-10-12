@@ -1615,6 +1615,13 @@ section {
     background-color: #2F4775;
 }
 
+section,
+section h1,
+section h2,
+section h3 {
+    color: rgba(255,255,255,0.9);
+}
+
 section.greyish {
     background-color: #2F4775;
 }
