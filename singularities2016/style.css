@@ -1622,6 +1622,10 @@ section h3 {
     color: rgba(255,255,255,0.9);
 }
 
+section a  {
+    color: lightgreen;
+}
+
 section.greyish {
     background-color: #2F4775;
 }
